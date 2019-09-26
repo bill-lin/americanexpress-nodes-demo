@@ -1,0 +1,3 @@
+rootProject.name = 'nodes-samples'
+
+include 'nodes-sample'

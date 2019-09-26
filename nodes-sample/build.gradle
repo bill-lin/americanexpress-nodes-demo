@@ -1,0 +1,7 @@
+apply plugin: 'java'
+
+
+dependencies {
+  compile group: 'io.aexp.nodes.graphql', name: 'nodes', version: '0.5.0'
+  testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.5.2'
+}

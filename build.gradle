@@ -1,0 +1,15 @@
+buildscript {
+  repositories {
+    google()
+    mavenCentral()
+  }
+}
+
+subprojects {
+  repositories {
+    mavenCentral()
+    maven {
+      url 'https://dl.bintray.com/americanexpress/maven/'
+    }
+  }
+}
