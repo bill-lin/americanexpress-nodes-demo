@@ -3,7 +3,7 @@ demo americanexpress-nodes graphql java client
 
 
 [GraphqlQueryTest](nodes-sample/src/test/java/com/demo/GraphqlQueryTest.java)
-demo query github graphql service, you need to update:
+demos query github graphql service, you need to provide:
 - USERNAME
 - YOUR_AUTH_TOKEN (https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)
 - repo name
